@@ -2,11 +2,11 @@
 The project contains an example API, created using the Django Rest Framework.<br>The theme is a car rental.
 ##
 Tabels:
--addresses
--customers
--employees
--cars
--rent
+- addresses
+- customers
+- employees
+- cars
+- rent
 <br>
 Libraries used:
 - Django 3.1.3
