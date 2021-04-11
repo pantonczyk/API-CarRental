@@ -1,5 +1,7 @@
 # API-CarRental
-The project contains an example API, created using the Django Rest Framework.<br>The theme is a car rental.
+The project contains an example API, created using the Django Rest Framework.<br>
+The theme is a car rental.<br>
+Project in collaboration with https://gitlab.com/LothainNox
 ##
 Tabels:
 - addresses
