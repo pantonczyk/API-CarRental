@@ -7,7 +7,7 @@ Tabels:
 - employees
 - cars
 - rent
-<br>
+##
 Libraries used:
 - Django 3.1.3
 - Django Rest Framework 3.12.2
